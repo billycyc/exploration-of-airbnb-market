@@ -1,4 +1,5 @@
 # Exploration of the Airbnb Market in NYC
+![python](https://img.shields.io/badge/Python-blue) ![pandas](https://img.shields.io/badge/Pandas-green) ![matplotlib](https://img.shields.io/badge/Matplotlib-green)
 
 ## What is it?
 In this project, insights about the Airbnb market in New York City are uncovered.   
